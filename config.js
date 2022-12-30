@@ -4,6 +4,8 @@ import { fileURLToPath } from 'url'
 
 global.owner = [
   ['6285155310298'],
+  ['628887010958'],
+  ['6282136299550'],
   ['6282137872989', 'Luca', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
@@ -29,7 +31,7 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.packname = '🤖Ayo buat stikermu sendiri!\nLink nomor BOT\n'
+global.packname = '🤖Ayo buat stikermu sendiri!\n'
 global.author = 'CHAT BOT'
 
 global.multiplier = 69 // The higher, The harder levelup
